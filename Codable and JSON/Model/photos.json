@@ -1,0 +1,326 @@
+{
+    "status": "ok",
+    "photos_path": "photos",
+    "photos": [
+        {
+            "image": "Photo0.jpg",
+            "title": "Shawn and Golden Gate",
+            "description": "Shawn and the Golden Gate Bridge viewed from the Marin Headlands.",
+            "latitude": 37.8281,
+            "longitude": -122.4978,
+            "date": "2014-11-23T11:46:01Z"
+        },
+        {
+            "image": "Photo1.jpg",
+            "title": "Shawn and Golden Gate",
+            "description": "Shawn and the Golden Gate Bridge viewed from the Marin Headlands.",
+            "latitude": 37.828,
+            "longitude": -122.4978,
+            "date": "2014-11-23T11:53:00Z"
+        },
+        {
+            "image": "Photo2.jpg",
+            "title": "Santa Cruz at Sunset",
+            "description": "Shawn standing on the beach at sunset in Santa Cruz.",
+            "latitude": 36.9633,
+            "longitude": -122.0154,
+            "date": "2014-11-23T17:27:02Z"
+        },
+        {
+            "image": "Photo3.jpg",
+            "title": "Santa Cruz Boardwalk",
+            "description": "Shawn standing under the Santa Cruz Boardwalk sign at night.",
+            "latitude": 36.9645,
+            "longitude": -122.0177,
+            "date": "2014-11-23T18:44:42Z"
+        },
+        {
+            "image": "Photo4.jpg",
+            "title": "1 Infinite Loop",
+            "description": "Shawn standing at the 1 Infinite Loop sign on the Apple campus.",
+            "latitude": 37.3316,
+            "longitude": -122.0307,
+            "date": "2014-11-24T12:17:18Z"
+        },
+        {
+            "image": "Photo5.jpg",
+            "title": "Skyline Boulevard Mountains",
+            "description": "Shawn in front of the mountains viewed from Skyline Boulevard.",
+            "latitude": 37.1963,
+            "longitude": -122.0409,
+            "date": "2014-11-24T12:57:12Z"
+        },
+        {
+            "image": "Photo6.jpg",
+            "title": "Silicon Valley",
+            "description": "Silicon Valley viewed from Skyline Boulevard.",
+            "latitude": 37.2316,
+            "longitude": -122.0936,
+            "date": "2014-11-24T13:19:11Z"
+        },
+        {
+            "image": "Photo7.jpg",
+            "title": "Rock Climbing",
+            "description": "Shawn rock climbing in the mountains along Skyline Boulevard.",
+            "latitude": 37.2317,
+            "longitude": -122.0936,
+            "date": "2014-11-24T13:20:04Z"
+        },
+        {
+            "image": "Photo8.jpg",
+            "title": "Rock Climbing",
+            "description": "Shawn rock climbing in the mountains along Skyline Boulevard.",
+            "latitude": 37.2317,
+            "longitude": -122.0936,
+            "date": "2014-11-24T13:21:02Z"
+        },
+        {
+            "image": "Photo9.jpg",
+            "title": "Rock Climbing",
+            "description": "Shawn rock climbing in the mountains along Skyline Boulevard.",
+            "latitude": 37.2283,
+            "longitude": -122.0961,
+            "date": "2014-11-24T13:52:01Z"
+        },
+        {
+            "image": "Photo10.jpg",
+            "title": "Rock Climbing",
+            "description": "Shawn rock climbing in the mountains along Skyline Boulevard.",
+            "latitude": 37.2285,
+            "longitude": -122.0961,
+            "date": "2014-11-24T13:52:06Z"
+        },
+        {
+            "image": "Photo11.jpg",
+            "title": "Rock Climbing",
+            "description": "Shawn rock climbing in the mountains along Skyline Boulevard.",
+            "latitude": 37.2286,
+            "longitude": -122.096,
+            "date": "2014-11-24T13:54:49Z"
+        },
+        {
+            "image": "Photo12.jpg",
+            "title": "Fence Line",
+            "description": "Shawn and a fence line found while hiking a trail near Skyline Boulevard.",
+            "latitude": 37.3085,
+            "longitude": -122.1998,
+            "date": "2014-11-24T14:42:12Z"
+        },
+        {
+            "image": "Photo13.jpg",
+            "title": "Interesting Old Tree",
+            "description": "Shawn and an interesting old tree found while hiking a trail near Skyline Boulevard.",
+            "latitude": 37.3086,
+            "longitude": -122.1984,
+            "date": "2014-11-24T14:47:22Z"
+        },
+        {
+            "image": "Photo14.jpg",
+            "title": "Shawn on Sailboat ",
+            "description": "Shawn on the Chardonnay II sailboat in the bay at Santa Cruz.",
+            "latitude": 36.9338,
+            "longitude": -122.035,
+            "date": "2014-11-25T16:21:13Z"
+        },
+        {
+            "image": "Photo15.jpg",
+            "title": "Ocean Cliff",
+            "description": "An ocean cliff in Northern California.",
+            "latitude": 37.3014,
+            "longitude": -122.4059,
+            "date": "2014-11-24T16:22:09Z"
+        },
+        {
+            "image": "Photo16.jpg",
+            "title": "Shawn and Ocean Cliff",
+            "description": "Shawn standing on an ocean cliff in Northern California.",
+            "latitude": 37.3014,
+            "longitude": -122.4059,
+            "date": "2014-11-24T16:23:43Z"
+        },
+        {
+            "image": "Photo17.jpg",
+            "title": "Sean on Beach",
+            "description": "Shawn standing on beach in Northern California.",
+            "latitude": 37.2997,
+            "longitude": -122.4065,
+            "date": "2014-11-24T16:32:29Z"
+        },
+        {
+            "image": "Photo18.jpg",
+            "title": "Ocean Cliff",
+            "description": "Ocean cliff from beach in Northern California.",
+            "latitude": 37.2968,
+            "longitude": -122.4069,
+            "date": "2014-11-24T16:42:56Z"
+        },
+        {
+            "image": "Photo19.jpg",
+            "title": "Cave Silhouette",
+            "description": "Silhouette of Shawn in cave on beach in Northern California.",
+            "latitude": 37.2967,
+            "longitude": -122.4069,
+            "date": "2014-11-24T18:44:12Z"
+        },
+        {
+            "image": "Photo20.jpg",
+            "title": "View from Route 1",
+            "description": "A view of the Pacific Ocean from Route 1.",
+            "latitude": 36.1654,
+            "longitude": -121.6707,
+            "date": "2014-11-26T14:16:32Z"
+        },
+        {
+            "image": "Photo21.jpg",
+            "title": "Beach Sunset",
+            "description": "A sunset on the beach in Northern California.",
+            "latitude": 37.2964,
+            "longitude": -122.4069,
+            "date": "2014-11-24T16:47:11Z"
+        },
+        {
+            "image": "Photo22.jpg",
+            "title": "Beach Sunset",
+            "description": "Shawn on beach at sunset in Northern California.",
+            "latitude": 37.2962,
+            "longitude": -122.4069,
+            "date": "2014-11-24T16:49:09Z"
+        },
+        {
+            "image": "Photo23.jpg",
+            "title": "Beach Sunset",
+            "description": "Shawn on beach at sunset in Northern California.",
+            "latitude": 37.2962,
+            "longitude": -122.4069,
+            "date": "2014-11-24T16:49:11Z"
+        },
+        {
+            "image": "Photo24.jpg",
+            "title": "Helicopter Tour",
+            "description": "Shawn taking helicopter tour out of Watsonville, CA.",
+            "latitude": 36.9097,
+            "longitude": -121.798,
+            "date": "2014-11-25T11:10:12Z"
+        },
+        {
+            "image": "Photo25.jpg",
+            "title": "Santa Cruz Lighthouse",
+            "description": "Shawn on Chardonnay II sailboat across from lighthouse in Santa Cruz.",
+            "latitude": 36.9596,
+            "longitude": -122.002,
+            "date": "2014-11-25T15:22:04Z"
+        },
+        {
+            "image": "Photo26.jpg",
+            "title": "Santa Cruz Pier",
+            "description": "The Santa Cruz Pier from the Chardonnay II sailboat.",
+            "latitude": 36.9568,
+            "longitude": -122.0176,
+            "date": "2014-11-25T15:37:40Z"
+        },
+        {
+            "image": "Photo27.jpg",
+            "title": "Ocean View Carmel Highlands",
+            "description": "A beautiful view of the Pacific Ocean at the Carmel Highlands.",
+            "latitude": 36.5016,
+            "longitude": -121.9384,
+            "date": "2014-11-26T10:07:11Z"
+        },
+        {
+            "image": "Photo28.jpg",
+            "title": "Sunset in Santa Cruz",
+            "description": "Silhouette of Shawn on beach at sunset in Santa Cruz near lighthouse.",
+            "latitude": 36.9628,
+            "longitude": -122.0003,
+            "date": "2014-11-25T17:16:52Z"
+        },
+        {
+            "image": "Photo29.jpg",
+            "title": "California Coast",
+            "description": "The coastline of Northern California near Rocky Creek Bridge.",
+            "latitude": 36.3799,
+            "longitude": -121.9021,
+            "date": "2014-11-26T10:38:34Z"
+        },
+        {
+            "image": "Photo30.jpg",
+            "title": "Rocky Creek Bridge",
+            "description": "Rocky Creek bridge along Route 1 south of Santa Cruz on way to Big Sur.",
+            "latitude": 36.3799,
+            "longitude": -121.9021,
+            "date": "2014-11-26T10:38:23Z"
+        },
+        {
+            "image": "Photo31.jpg",
+            "title": "McWay Waterfall Trail",
+            "description": "The view from the McWay Waterfall trail.",
+            "latitude": 36.16,
+            "longitude": -121.6733,
+            "date": "2014-11-26T13:09:01Z"
+        },
+        {
+            "image": "Photo32.jpg",
+            "title": "Ewoldsen Trail",
+            "description": "Shawn hiking on the Ewoldsen Trail near McWay Creek.",
+            "latitude": 36.161,
+            "longitude": -121.6666,
+            "date": "2014-11-26T13:27:01Z"
+        },
+        {
+            "image": "Photo33.jpg",
+            "title": "Ewoldsen Trail",
+            "description": "Shawn resting on the Ewoldsen Trail near McWay Creek.",
+            "latitude": 36.1681,
+            "longitude": -121.6661,
+            "date": "2014-11-26T14:00:34Z"
+        },
+        {
+            "image": "Photo34.jpg",
+            "title": "Ewoldsen Trail Ocean View",
+            "description": "Ocean view from near top of the Ewoldsen Trail",
+            "latitude": 36.1651,
+            "longitude": -121.6705,
+            "date": "2014-11-26T14:16:12Z"
+        },
+        {
+            "image": "Photo35.jpg",
+            "title": "Marin Headlands",
+            "description": "Shawn on top of Marin Headlands with ocean view.",
+            "latitude": 37.8269,
+            "longitude": -122.4999,
+            "date": "2014-11-27T11:33:11Z"
+        },
+        {
+            "image": "Photo36.jpg",
+            "title": "Marin Headlands",
+            "description": "Shawn on top of Marin Headlands with inland view.",
+            "latitude": 37.8282,
+            "longitude": -122.4991,
+            "date": "2014-11-27T11:45:43Z"
+        },
+        {
+            "image": "Photo37.jpg",
+            "title": "Baker Beach",
+            "description": "Shawn on Baker Beach in San Francisco with the Golden Gate bridge in the distance.",
+            "latitude": 37.7977,
+            "longitude": -122.4818,
+            "date": "2014-11-27T14:34:12Z"
+        },
+        {
+            "image": "Photo38.jpg",
+            "title": "Baker Beach",
+            "description": "A view of the Golden Gate bridge from Baker Beach.",
+            "latitude": 37.7915,
+            "longitude": -122.4844,
+            "date": "2014-11-27T14:12:05Z"
+        },
+        {
+            "image": "Photo39.jpg",
+            "title": "San Francisco",
+            "description": "A view of San Francisco from Twin Peaks.",
+            "latitude": 37.7548,
+            "longitude": -122.4462,
+            "date": "2014-11-27T15:23:52Z"
+        }
+    ]
+}
